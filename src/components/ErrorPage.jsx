@@ -1,8 +1,11 @@
 import React from 'react';
 
+
+
+
 const ErrorPage = () => {
     return (
-      <div>
+      <div className="error-page">
       
           <h1>Unexpected Application Error!</h1>
           <h2>404 Not Found</h2>
